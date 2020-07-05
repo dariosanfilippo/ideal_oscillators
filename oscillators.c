@@ -44,6 +44,7 @@ int main(void) {
     ph_free(ph_ph);
     ph_free(ph_sine);
     ph_free(ph_square);
+    ph_free(ph_sawtooth);
     ph_free(ph_triangle);
 
     return 0;
